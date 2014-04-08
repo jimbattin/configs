@@ -1,0 +1,54 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold",
+        "no_italic"
+	],
+	"font_size": 13.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"paths":
+	{
+		"linux":
+		[
+			"/usr/local/bin",
+			"/usr/bin",
+			"/usr/bin"
+		]
+	},
+	"rulers":
+	[
+		79,
+		99
+	],
+	"scroll_past_end": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"wrap_width": 80
+}
